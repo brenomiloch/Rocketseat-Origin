@@ -1,0 +1,60 @@
+
+/*RESET*/
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family:fira code;
+
+}
+
+
+body{
+
+    background: rgb(0, 137, 172);
+
+}
+
+:root{
+    font-size: 20px;
+}
+
+#titulo{
+
+    height: 4.5rem;
+
+}
+
+a{
+
+        text-decoration: none;
+
+}
+
+img{
+
+    width: 100%;
+    height: auto;
+
+}
+
+nav{
+
+    display: flex;
+    justify-content: space-between; /*Joga uum para cada lado*/
+
+}
+
+.logo{
+
+
+}
+
+.container{
+
+width: 90%;
+margin-left: 1.5rem;
+margin-right:1.5rem ;
+
+}
